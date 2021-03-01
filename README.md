@@ -7,12 +7,13 @@
 
 ## 🎯 Objetivo
 
-Controle o seu tempo, seja mais produtivo e cuide da sua saúde. O <a href="https://moveit-next-mdcarmo.vercel.app/"> Move.it </a> foi desenvolvido para gerenciamento do tempo, como na técnica do pomodoro, dividindo o trabalho em períodos de 25 minutos. Depois desse tempo, ele libera um desafio, que é um alongamento para o corpo ou exercícios para os olhos. Cada desafio tem seus pontos de xp e, acumulando os pontos você sobe de nível. (Os desafios podem ser facilmente customizados.)
+Controle o seu tempo, seja mais produtivo e cuide da sua saúde. O <a href="https://moveit-next-mdcarmo.vercel.app/"> Move.it </a> foi desenvolvido para gerenciamento do tempo, como na técnica do pomodoro, dividindo o trabalho em períodos de 25 minutos (No exemplo, deixei com apenas 2 minutos para ficar mais fácil o entendimento). Depois desse tempo, ele libera um desafio, que é um alongamento para o corpo ou exercícios para os olhos. Cada desafio tem seus pontos de xp e, acumulando os pontos você sobe de nível. (Os desafios podem ser facilmente customizados.)
 
 <p float="center">
-  <img src="public/imagensApp/imagemApp01.png" width="450" tyle="border-radius: 15px" height="auto">
-  <img src="public/imagensApp/imagenApp02.png" width="450" tyle="border-radius: 15px" height="auto">
-  <img src="public/imagensApp/imagenApp03.png" width="450" tyle="border-radius: 15px" height="auto">
+  <img src="public/imagensApp/imagemApp01.png" width="550" tyle="border-radius: 15px" height="auto">
+  <img src="public/imagensApp/imagenApp02.png" width="550" tyle="border-radius: 15px" height="auto">
+  <img src="public/imagensApp/imagenApp03.png" width="550" tyle="border-radius: 15px" height="auto">
+  <img src="public/imagensApp/imagenApp04.png" width="550" tyle="border-radius: 15px" height="auto">
 </p>
 
 O layout do Figma disponibilizado pela equipe da Rockset se encontra aqui: <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=">here</a>.
