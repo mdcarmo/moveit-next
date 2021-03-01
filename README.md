@@ -3,7 +3,7 @@
 </h1>
 <p align="center"> Application developed during the fourth edition of the Next Level Week by <a href="https://rocketseat.com.br/">Rocketseat</a> 🚀 </p>
 
-<h1 align="center">
+<!-- <h1 align="center">
   <img width="600" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="public/imagensApp/imagemApp01.png" />
 </h1>
 
@@ -13,12 +13,12 @@
 
 <h1 align="center">
   <img width="600" style="border-radius: 15px" height="auto" alt="level.up" title="Level Up" src="public/imagensApp/imagenApp03.png" />
-</h1>
+</h1> -->
 
 <p float="left">
-  <img src="public/imagensApp/imagemApp01.png" width="150" tyle="border-radius: 15px" height="auto">
-  <img src="public/imagensApp/imagenApp02.png" width="150" tyle="border-radius: 15px" height="auto">
-  <img src="public/imagensApp/imagenApp03.png" width="150" tyle="border-radius: 15px" height="auto">
+  <img src="public/imagensApp/imagemApp01.png" width="350" tyle="border-radius: 15px" height="auto">
+  <img src="public/imagensApp/imagenApp02.png" width="350" tyle="border-radius: 15px" height="auto">
+  <img src="public/imagensApp/imagenApp03.png" width="350" tyle="border-radius: 15px" height="auto">
 </p>
 
 
