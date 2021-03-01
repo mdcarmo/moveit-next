@@ -4,7 +4,7 @@
 <p align="center"> Application developed during the fourth edition of the Next Level Week by <a href="https://rocketseat.com.br/">Rocketseat</a> 🚀 </p>
 
 <h1 align="center">
-  <img width="600" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="" />
+  <img width="600" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="public/imagensApp/imagemApp01.png" />
 </h1>
 
 ## 🎯 Objective
