@@ -1,66 +1,52 @@
 <h1 align="center">
     Move.it
 </h1>
-<p align="center"> Application developed during the fourth edition of the Next Level Week by <a href="https://rocketseat.com.br/">Rocketseat</a> 🚀 </p>
-
-<!-- <h1 align="center">
-  <img width="600" style="border-radius: 10px" height="auto" alt="level.up" title="Level Up" src="public/imagensApp/imagemApp01.png" />
-</h1>
-
-<h1 align="center">
-  <img width="600" style="border-radius: 15px" height="auto" alt="level.up" title="Level Up" src="public/imagensApp/imagenApp02.png" />
-</h1>
-
-<h1 align="center">
-  <img width="600" style="border-radius: 15px" height="auto" alt="level.up" title="Level Up" src="public/imagensApp/imagenApp03.png" />
-</h1> -->
+<p align="center"> Aplicativo desenvolvido durante a quarta edição da Next Level Week por <a href="https://rocketseat.com.br/">Rocketseat</a> 🚀 </p>
 
 <p float="left">
-  <img src="public/imagensApp/imagemApp01.png" width="350" tyle="border-radius: 15px" height="auto">
-  <img src="public/imagensApp/imagenApp02.png" width="350" tyle="border-radius: 15px" height="auto">
-  <img src="public/imagensApp/imagenApp03.png" width="350" tyle="border-radius: 15px" height="auto">
+  <img src="public/imagensApp/imagemApp01.png" width="450" tyle="border-radius: 15px" height="auto">
+  <img src="public/imagensApp/imagenApp02.png" width="450" tyle="border-radius: 15px" height="auto">
+  <img src="public/imagensApp/imagenApp03.png" width="450" tyle="border-radius: 15px" height="auto">
 </p>
 
+## 🎯 Objetivo
 
+Controle o seu tempo, seja mais produtivo e cuide da sua saúde. O <a href=""> Move.it </a> foi desenvolvido para gerenciamento do tempo, como na técnica do pomodoro, dividindo o trabalho em períodos de 25 minutos. Depois desse tempo, ele libera um desafio, que é um alongamento para o corpo ou exercícios para os olhos. Cada desafio tem seus pontos de xp e, acumulando os pontos você sobe de nível. (Os desafios podem ser facilmente customizados.)
 
+O layout do Figma disponibilizado pela equipe da Rockset se encontra aqui: <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=">here</a>.
 
-## 🎯 Objective
+## 🛠 Tecnologias utilizadas:
 
-Track your time, be more productive and take care of your health. <a href="">Move.it</a> was developed for time management, as in the pomodoro technique, dividing the work into 25 minute periods. After that time it releases a challenge, which is some stretching for the body or exercise for the eyes. Each challenge has its xp points and, accumulating the points you level up.
-
-The Figma layout is available <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=">here</a>.
-
-## 🛠 Technologies:
-
-The following tools were used in the construction of the project:
+As seguintes ferramentas foram utilizadas na construção do projeto:
 
 - [ReactJS](https://reactjs.org)
 - [NextJS](https://nextjs.org)
 - [NodeJS](https://nodejs.org/en/)
 
-## 👷️ Getting Started
+## 👷️ Começando
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local para fins de desenvolvimento e teste.
 
-### Prerequisites
+### Pré Requisitos
 
-You will need to have yarn installed on your machine. For that, simply run:
+Você precisará ter o yarn instalado em sua máquina. Para isso, basta executar:
 
 ```bash
 npm install -g yarn
 ```
+É possivel utilizar o npm também como gerenciador de pacotes. 
 
-### Installing
+### Instalando
 
-To run the project for the **first** time you must follow this steps:
+Para executar o projeto pela ** primeira ** vez, você deve seguir estas etapas:
 
-Clone the GitHub repository
+Clone o repositório no github:
 
 ```bash
 git clone https://github.com/mdcarmo/moveit-next.git
 ```
 
-Install the dependencies and start the project
+Instale as dependencias e inicie o projeto
 
 ```bash
 yarn
@@ -70,9 +56,9 @@ yarn
 yarn dev
 ```
 
-Now, you can see the app running at [localhost:3000](http://localhost:3000)
+Agora, e se deu tudo certo voce deverá ver o aplicativo rodando em [localhost:3000](http://localhost:3000)
 
-## 💻️ Author
+## 💻️ Autor
 **Marcelo Dias** - [mdcarmo](https://github.com/mdcarmo)
 
 <h2 id="license"> 📝 License </h2>
