@@ -16,7 +16,7 @@ Controle o seu tempo, seja mais produtivo e cuide da sua saúde. O <a href="http
   <img src="public/imagensApp/imagemApp04.png" width="550" tyle="border-radius: 15px" height="auto">
 </p>
 
-O layout do Figma disponibilizado pela equipe da Rockset se encontra aqui: <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=">here</a>.
+O layout do Figma disponibilizado pela equipe da Rockset se encontra <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=">aqui</a>.
 
 ## 🛠 Tecnologias utilizadas:
 
@@ -41,7 +41,7 @@ npm install -g yarn
 
 ### Instalando
 
-Para executar o projeto pela ** primeira ** vez, você deve seguir estas etapas:
+Para executar o projeto pela primeira vez, você deve seguir estas etapas:
 
 Clone o repositório no github:
 
